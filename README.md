@@ -1,5 +1,7 @@
 # Dawns-Clangen-Modding
 Uhhh big gallery of my mods and stuff
+## Contents
+[More Thoughts](https://github.com/Ssuncreature/Dawns-Clangen-Addons?tab=readme-ov-file#more-thoughts)
 
 ## More Thoughts
 
