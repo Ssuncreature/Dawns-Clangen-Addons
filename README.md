@@ -2,8 +2,10 @@
 Uhhh big gallery of my mods and stuff
 ## Contents
 [More Thoughts](https://github.com/Ssuncreature/Dawns-Clangen-Addons?tab=readme-ov-file#more-thoughts)
+[Varied Events](https://github.com/Ssuncreature/Dawns-Clangen-Addons/edit/main/README.md#varied-events)
 
 ## More Thoughts
+To add thoughts, just paste the text in the corresponding file directly beneath the final base game one
 
 Apprentice Lost thoughts:
             
@@ -35,3 +37,7 @@ Warrior Lost thoughts:
             "Wonders if {PRONOUN/m_c/subject} could've been deputy if they hadn't gotten lost",
             "Wonders if {PRONOUN/m_c/subject} could've been leader if they hadn't gotten lost",
             "Hides from a group of patrolling cats, unsure if it's the correct Clan"
+
+## Varied Events
+
+Coming soon...
